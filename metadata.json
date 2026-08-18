@@ -1,0 +1,6 @@
+{
+  "name": "REWIVO AI",
+  "description": "AI Photo & Video Background Changer App",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
